@@ -1,8 +1,6 @@
-# Python program to create a
-# GUI mark sheet using tkinter
+
  
- 
-# Import tkinter as tk
+
 import tkinter as tk
  
  
